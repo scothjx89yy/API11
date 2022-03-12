@@ -30,8 +30,6 @@ namespace API11.Controllers
             .ToArray();
 
             //aaaaaaaaaaa
-            //adasdasdsa
-            /asdasdasdasdsad
         }
     }
 }
